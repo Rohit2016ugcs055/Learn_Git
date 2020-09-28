@@ -6,3 +6,4 @@ if hungry=="Yes":
     print("Hello")
 else:
     print("do your homework")
+    print("done!")
