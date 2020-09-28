@@ -5,5 +5,8 @@ if hungry=="Yes":
     pritn("eat burger")
     print("Hello")
 else:
+    if hungry=="No"
     print("do your homework")
     print("done!")
+    else:
+        print("CHECK DEMO")
