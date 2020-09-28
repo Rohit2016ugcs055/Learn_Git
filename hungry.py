@@ -3,5 +3,6 @@ if hungry=="Yes":
     print("eat samosa")
     print("eat pizza")
     pritn("eat burger")
+    printf("fried")
 else:
     print("do your homework")
