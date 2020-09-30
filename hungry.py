@@ -7,3 +7,4 @@ if hungry=="Yes":
 else:
     print("do your homework")
     print("done!")
+    print("CHECKING")
